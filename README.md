@@ -1,8 +1,8 @@
 ## Hello, World! I'm Douglas!!
 <div>
   <a href="https://github.com/devdouglaslopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdouglaslopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglaslopes&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdouglaslopes&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglaslopes&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +18,6 @@
   ![Snake animation](https://github.com/devdouglaslopes/devdouglaslopes/blob/output/github-contribution-grid-snake.svg)
  
 </div> 
-</div>
 <a href="https://github.com/devdouglaslopes/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devdouglaslopes&repo=portfolio&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devdouglaslopes&repo=portfolio&theme=great-gatsby" />
 </a>
